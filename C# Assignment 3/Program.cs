@@ -55,13 +55,9 @@ namespace C__Assignment_3
             //char.TryParse(Console.ReadLine(), out char c);
 
             //if (L.Contains(c))
-            //{
             //    Console.WriteLine("Vowel");
-            //}
             //else
-            //{
             //    Console.WriteLine("Consonant");
-            //} 
             #endregion
 
 
