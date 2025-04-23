@@ -61,6 +61,15 @@ namespace C__Assignment_3
             //    Console.WriteLine("Consonant");
             #endregion
 
+            #region Q6
+            //Console.Write("Enter number: ");
+            //int.TryParse(Console.ReadLine(), out int number);
+            //    for (int i = 1; i <= number; i++)
+            //    {
+            //        Console.WriteLine(i);
+            //    } 
+            #endregion
+
 
 
         }
