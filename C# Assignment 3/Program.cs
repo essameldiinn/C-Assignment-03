@@ -70,7 +70,15 @@ namespace C__Assignment_3
             //    } 
             #endregion
 
+            #region Q7
+            Console.Write("Enter number : ");
+            int.TryParse(Console.ReadLine(), out int n);
 
+            for (int i = 1; i < n; i++)
+            {
+                Console.Write(n * n);
+            } 
+            #endregion
 
         }
     }
